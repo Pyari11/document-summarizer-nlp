@@ -19,7 +19,7 @@ PDF, DOCX, and TXT files.
 1. Install dependencies
 pip install PyPDF2 python-docx nltk
 2. Run the program
-python summarizer.py
+python summarizer.ipynb
 3. Enter the file path when prompted.
 Example:
 Enter file path (.pdf, .docx, .txt):
@@ -28,8 +28,7 @@ document.pdf
 
 ## Project Structure
 document-summarizer-nlp
-│
-├── summarizer.py
+├── summarizer.ipynb
 ├── README.md
 
 
